@@ -27,9 +27,16 @@ The following master pages are available for use:
     - **Heading 1** is used for the top level heading(s) of an article.
     - **Heading 2** is used for the main sections within a heading of an article.
     - **Heading 3** is used for the sub-sections withn Heading 2.
+- **Captions** houses all of the caption type styles. Captions are used to provide context
+  to images, charts, and graphs.
+    - **Caption** is for the body of the caption.
+    - **Catpion Title** is for the title of the caption.
 
 ## Character Styles
 
 - **\[None\]** Does about what you'd expect. It removes any declared character styles 
   from the active text.
-- **Strong** Is used to call attention to important terms within flow of the body copy (aka, the \[Basic Paragraph\]s).
+- **Strong** Is used to call attention to important terms within flow of the body copy 
+  (aka, the \[Basic Paragraph\]s).
+- **Code** Is used to mark-up inline code within your document. For example, a reference 
+  to the `<img />` tag may be most appropriate if displayed as code.
